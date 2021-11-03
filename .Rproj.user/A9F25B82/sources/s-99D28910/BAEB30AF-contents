@@ -477,7 +477,7 @@ cats
 ## Realistic example
 So far, you have seen the basics of manipulating data frames with our cat data;
 now let's use those skills to digest a more realistic dataset. Let's read in the
-`gapminder` dataset that we [previously downloaded](https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html#challenge-3) from [here](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv):
+`gapminder` dataset that we downloaded previously:
 
 
 ~~~
